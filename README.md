@@ -32,8 +32,6 @@ To build a real-time system that monitors a driver’s eye closure and yawning p
 ---
 
 
----
-
 ## ⚙️ **How It Works**
 
 1. Captures live video from the webcam.
